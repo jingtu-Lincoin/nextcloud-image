@@ -1,1 +1,1 @@
-FROM nextcloud
+FROM nextcloud/all-in-one:latest
